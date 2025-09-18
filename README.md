@@ -2,8 +2,8 @@
 # Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
-#### NAME: GEDIPUDI DARSHANI
-#### REGISTER NUMBER:212223230062
+#### NAME: PRIYANKA K
+#### REGISTER NUMBER:212223230162
 # AIM:
 
 To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
